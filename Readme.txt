@@ -1,5 +1,5 @@
 to add songs to the list:
-here's and example of how to put in a song in the json file:
+here's and example of how to put in a song in the feild's when you press "add song":
 "(Song title here) (character & character)  or (character))": "(example command)!topic spongebob 11 sandy 21 spongebob 27 sandy 29 spongebob 34 sandy 43 spongebob 50 sandy 72 spongebob 81 sandy 84 spongebob 93 sandy 94 spongebob 95 sandy 100 spongebob 110 sandy 116 spongebob 143 sandy 158 sings https://www.youtube.com/watch?v=JaJLiiJfdac",
 
 
